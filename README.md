@@ -1,11 +1,19 @@
+<h1 align="center">👋 hello, i'm Khatly</h1>
+
+<p align="center">
+
+## 💼 professional profile
+
+- 💻 Leader of the first academic league of Paraíba - TAIL
+- 🌱 Software Developer at FAPESQ
+- 🎓 Data Science and AI student at UFPB institution
+-  ✨ Frontend at the ARIA laboratory
+
+
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
 
 
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=viviannyk&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Vivianny Khatly github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viviannyk&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
-</div>
 
 <div align="center"> 
 <a href="https://instagram.com/vivvianny" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
