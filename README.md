@@ -2,7 +2,7 @@
 
 <p align="center">
 
-## 💼 professional profile
+## 💼 Professional profile
 
 - 💻 Leader of the first academic league of Paraíba - TAIL
 - 🌱 Software Developer at FAPESQ
